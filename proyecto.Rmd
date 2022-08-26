@@ -188,13 +188,13 @@ knitr::include_graphics("./figs/Instalacion R- Win (9).png")
 A continuación se muestra cómo bajarlo para Windows:
 
 ```{r  Fig Instalacion_RStudio, warning=FALSE, fig.align = "center", message=F, cache=T, echo =F, error=T}
-knitr::include_graphics("./figs/instalacion_Rstudio1.mov")
+knitr::include_graphics("./figs/instalacion_Rstudio1.gif")
 ```
 
 Una vez ya bajado de internet, favor abrir y apretar el botón siguiente en todos sus campos. **Observación**: Existen opciones para personalizar las acciones que hicimos aquí. De todas formas este es un taller introductorio, por lo que no se ahondarán en estas alternativas.
 
 ```{r  Fig Instalacion_RStudio2, warning=FALSE, fig.align = "center", message=F, cache=T, echo =F, error=T}
-knitr::include_graphics("./figs/instalacion_Rstudio2.mov")
+knitr::include_graphics("./figs/instalacion_Rstudio2.gif")
 ```
 
 **Reinicie el computador una vez finalizada la instalación**
@@ -206,7 +206,7 @@ Abra una nueva sesión en Rstudio (abra el programa).
 Habiendo cumplido con el paso previo, abra R Studio y corra el siguiente comando en la Consola (siga los pasos de la imagen): `install.packages("janitor")`.
 
 ```{r  Fig Instalacion_RStudio3, warning=FALSE, fig.align = "center", message=F, cache=T, echo =F, error=T}
-knitr::include_graphics("./figs/instalacion_Rstudio3.mov")
+knitr::include_graphics("./figs/instalacion_Rstudio3.gif")
 ```
 
 ¿Obtuvo el siguiente mensaje?, si lo obtuvo es porque la instalación fue exitosa.
